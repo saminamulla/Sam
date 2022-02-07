@@ -1,4 +1,5 @@
 ### Hi there 👋  I'm Samina Mulla
+🌱 I’m currently learning Machine Learning,Natural Language Processing
 
 <!--
 **saminamulla/Saminamulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
